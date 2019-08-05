@@ -9,6 +9,7 @@ import (
 	"encoding/gob"
 	"encoding/hex"
 	"encoding/pem"
+	"fmt"
 	"io/ioutil"
 	"os"
 	"path/filepath"
